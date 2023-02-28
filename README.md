@@ -4,6 +4,7 @@
 > - Desormais les pauses sont libres à prendre mais à conditions :
 > - 15 min de pause au matin.
 > - 15 min de pause dans l'apres midi.
+> - Attendre un autre V2C libre pour relais LBP ou LP.
 > - Pas 2 pauses en meme temps.
 > - Les pauses repas sont en fixes.
 > - Pas de pause possible de 15h à 15h45 inclus.
